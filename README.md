@@ -30,7 +30,7 @@ This is a simple, cute loading screen used by me.
 - Open Command Prompt or Terminal in the UI file, and run `npm run build`
 - Done
 
-## How can I change staff that is shwon?
+## How can I change staff that is shown?
 
 - Go to ui/src/configs/staff.config.js
 - Chnage the staff member I've put or, add more using the code below:
