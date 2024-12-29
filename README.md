@@ -46,7 +46,7 @@ This is a simple, cute loading screen used by me.
 - Open Command Prompt or Terminal in the UI file, and run `npm run build`
 - Done
 
-## How can I chnage the colors ?
+## How can I change the colors ?
 
 - Go to ui/tailwind.config.js
 - Modify your color
