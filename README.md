@@ -1,6 +1,9 @@
 # pnLoading
-### Little description
-This is a simple, cute loading screen used by me. 
+Tired of boring, static loading screens? 
+
+Elevate your FiveM server with our dynamic Loading Screen! Immerse yourself in your favorite music with a fully integrated media player, seamlessly transitioning between tracks while you wait.
+But that's not all! Showcase your dedicated staff team with a stylish and informative component, highlighting their roles and fostering a sense of community within your server.
+Experience loading screens like never before – engaging, informative, and personalized. Get ready to captivate your players and enhance their server experience.
 
 
 ## How to install
