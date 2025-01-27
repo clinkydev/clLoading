@@ -9,8 +9,8 @@ None
 
 ## Documentation
 
-Installation: https://clinky-development-1.gitbook.io/docs/free-resources/loading-screen/installation
-Change Songs: https://clinky-development-1.gitbook.io/docs/free-resources/loading-screen/change-the-songs-in-the-media-player
-Change Staff: https://clinky-development-1.gitbook.io/docs/free-resources/loading-screen/change-the-staff-displayed-in-staff-area
-Change colors: https://clinky-development-1.gitbook.io/docs/free-resources/loading-screen/change-colors
+Installation: https://clinky-development-1.gitbook.io/docs/free-resources/loading-screen/installation <hr>
+Change Songs: https://clinky-development-1.gitbook.io/docs/free-resources/loading-screen/change-the-songs-in-the-media-player <hr>
+Change Staff: https://clinky-development-1.gitbook.io/docs/free-resources/loading-screen/change-the-staff-displayed-in-staff-area <hr>
+Change colors: https://clinky-development-1.gitbook.io/docs/free-resources/loading-screen/change-colors <hr>
 
